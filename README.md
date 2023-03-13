@@ -16,7 +16,7 @@ You can add new tasks, check it as done and delete when you think it's not impor
 - Redux-Saga
 - fetch from local Storage
 
-## [**Todo list-react - link**](https://walmarek.github.io/todo-list-react/)
+## [**Todo list-react - link**](https://walmarek.github.io/Todo-List-React-v1/)
 
 <p align="center">
   <img src="https://github.com/walmarek/todo-list-react/blob/main/public/to-do-list.gif?raw=true">
