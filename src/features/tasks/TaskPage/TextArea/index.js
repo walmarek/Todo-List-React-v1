@@ -17,7 +17,7 @@ export const Textarea = () => {
         <TextField
           fullWidth
           id="outlined-multiline-static-contrlled"
-          label="Tasks details"
+          label="Details"
           multiline
           rows={2}
           value={details}
