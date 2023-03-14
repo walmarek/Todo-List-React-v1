@@ -2,7 +2,7 @@
   "name": "todo-list-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://walmarek.github.io/todo-list-react/",
+  "homepage": "https://walmarek.github.io/Todo-List-React-v1/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
