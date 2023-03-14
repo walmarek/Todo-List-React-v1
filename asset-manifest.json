@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/todo-list-react/static/css/main.f9226e35.css",
-    "main.js": "/todo-list-react/static/js/main.e87959ef.js",
-    "static/js/787.d93b6323.chunk.js": "/todo-list-react/static/js/787.d93b6323.chunk.js",
-    "static/media/logo.ico": "/todo-list-react/static/media/logo.1fa89ca5f05c4e3f7232.ico",
-    "index.html": "/todo-list-react/index.html",
-    "main.f9226e35.css.map": "/todo-list-react/static/css/main.f9226e35.css.map",
-    "main.e87959ef.js.map": "/todo-list-react/static/js/main.e87959ef.js.map",
-    "787.d93b6323.chunk.js.map": "/todo-list-react/static/js/787.d93b6323.chunk.js.map"
+    "main.css": "/Todo-List-React-v1/static/css/main.f9226e35.css",
+    "main.js": "/Todo-List-React-v1/static/js/main.ab767333.js",
+    "static/js/787.d93b6323.chunk.js": "/Todo-List-React-v1/static/js/787.d93b6323.chunk.js",
+    "static/media/logo.ico": "/Todo-List-React-v1/static/media/logo.1fa89ca5f05c4e3f7232.ico",
+    "index.html": "/Todo-List-React-v1/index.html",
+    "main.f9226e35.css.map": "/Todo-List-React-v1/static/css/main.f9226e35.css.map",
+    "main.ab767333.js.map": "/Todo-List-React-v1/static/js/main.ab767333.js.map",
+    "787.d93b6323.chunk.js.map": "/Todo-List-React-v1/static/js/787.d93b6323.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9226e35.css",
-    "static/js/main.e87959ef.js"
+    "static/js/main.ab767333.js"
   ]
 }
